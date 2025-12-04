@@ -1,0 +1,8 @@
+{
+  "name": "Smart Face Cam",
+  "description": "Real-time face detection camera that only enables photography when a face is present. Includes AI analysis of the captured photo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
